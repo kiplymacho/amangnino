@@ -3,8 +3,8 @@ import requests, os
 def logo():
   print("""
 
-            | 📨 Sms-Kiplymacho 📩
-              Admin +6285751032225
+            | 📨 smskiplymacho 📩 |
+                 085751032225
 
 """)
 
