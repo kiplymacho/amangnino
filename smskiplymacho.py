@@ -1,5 +1,5 @@
 import requests, os
-sleep 7
+
 def logo():
   print("""
 
@@ -11,8 +11,8 @@ def logo():
             ║∩田│║▓ ▓  | ∩ ∩ |  ∩ ∩ |
           
            
-             | 📨 smskiplymacho 📩 |
-                  085751032225
+             | ﷲ smskiplymacho ﷲ |
+                 +6285751032225
 
 """)
 
